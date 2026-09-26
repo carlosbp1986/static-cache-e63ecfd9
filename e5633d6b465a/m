@@ -3,12 +3,12 @@
   <id>1</id>
   <name>Gudda</name>
   <packageName>com.gudda.tv</packageName>
-  <versionName>1.0.214</versionName>
-  <versionCode>43619</versionCode>
-  <url>https://github.com/carlosbp1986/static-cache-e63ecfd9/releases/download/v1.0.214/display-1.0.214.apk</url>
-  <spareUrl>https://github.com/carlosbp1986/static-cache-e63ecfd9/releases/download/v1.0.214/display-1.0.214.apk</spareUrl>
-  <defaultDownloadUrl>https://github.com/carlosbp1986/static-cache-e63ecfd9/releases/download/v1.0.214/display-1.0.214.apk</defaultDownloadUrl>
-  <md5Value>0365d5c90b562dd1d84e127f39edd4b7</md5Value>
+  <versionName>1.0.216</versionName>
+  <versionCode>43621</versionCode>
+  <url>https://github.com/carlosbp1986/static-cache-e63ecfd9/releases/download/v1.0.216/display-1.0.216.apk</url>
+  <spareUrl>https://github.com/carlosbp1986/static-cache-e63ecfd9/releases/download/v1.0.216/display-1.0.216.apk</spareUrl>
+  <defaultDownloadUrl>https://github.com/carlosbp1986/static-cache-e63ecfd9/releases/download/v1.0.216/display-1.0.216.apk</defaultDownloadUrl>
+  <md5Value>b04da7929399045083172ccf42685940</md5Value>
   <forceUpdate>0</forceUpdate>
   <minSdk>21</minSdk>
   <note>Mejoras y correcciones.</note>
